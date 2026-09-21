@@ -47,12 +47,5 @@ The dataset used in this project (`Cleaned_Consumption.csv`) contains structured
 - Interactive filters and drill-down capabilities.
 - Supports informed decision-making and policy design.
 
-## 🧑‍💻 Author
-
-**G.RAKESH**
-
-Feel free to connect or contribute!
-
----
 
 > ⚡ *Powering insights for a sustainable and energy-efficient future.*
